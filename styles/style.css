@@ -270,8 +270,9 @@ footer p {
         padding-bottom: 0;
     }
     .video-section h1 {
-        font-size: 35px;
-        line-height: 48px;
+        font-size: 28px;
+        line-height: 40px;
+        max-width: 95%;
     }
     .video-section p {
         max-width: 85%;
