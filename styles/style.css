@@ -131,6 +131,7 @@ nav.navbar ul li a {
 /* Video Section Styles */
 .video-section {
     margin-top: 0;
+    padding: 50px 0;
 }
 .video-contents h1 {
     text-align: center;
@@ -269,7 +270,7 @@ footer p {
         padding-bottom: 0;
     }
     .video-section h1 {
-        font-size: 36px;
+        font-size: 35px;
         line-height: 48px;
     }
     .video-section p {
